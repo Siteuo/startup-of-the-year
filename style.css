@@ -1,0 +1,61 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3.1rem;
+  color: rgba(101, 121, 143, 0.403);
+  font-family: 'Architects Daughter', cursive;
+}
+
+.buffer {
+  height: 8rem;
+}
+
+.btn-FoM {
+  padding: 12px 12px;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  color: #fff;
+  background-color: rgba(215, 46, 46, 0.774);
+  border-radius: 15px;
+  border-color: rgba(145, 82, 82, 0.377);
+  text-transform: uppercase;
+  font-family: 'Architects Daughter', cursive;
+  transition: 2.2s;
+}
+
+.btn-FoM:hover {
+  color: rgba(249, 244, 244, 0.934);
+  background-color: rgba(194, 55, 55, 0.858);
+  border-style: dotted;
+  border-width: 3.1px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-family: 'Architects Daughter', cursive;
+  transform: scale(1.2);
+}
+
+#hr_xb1 {
+  border-color: rgba(193, 52, 52, 0.66);
+  border-width: 2.4px;
+  max-width: 83px;
+}
+
+
+
+
+
+
+
+
+
